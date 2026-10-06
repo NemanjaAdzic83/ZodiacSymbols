@@ -18,7 +18,7 @@ public class DescriptionActivity extends AppCompatActivity {
 
         // It is better to use parcelable
 
-        // TODO insert description
+        // TODO insert description and use parcelable
 
         String name = getIntent().getStringExtra("Name");
         String date = getIntent().getStringExtra("Date");
